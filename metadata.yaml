@@ -1,5 +1,5 @@
 _repo: Une-rencontre-roman-de-deux-touristes-sur-le-Saint-Laurent-et-le-Saguenay_58532
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Fréchette, Louis Honoré
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '5665'
     url: http://www.gutenberg.org/2009/agents/5665
     wikipedia: http://en.wikipedia.org/wiki/Louis-Honor%C3%A9_Fr%C3%A9chette
+covers:
+- cover_type: archival
+  image_path: 58532-h/images/cover.jpg
 creator:
   author:
     agent_name: Howells, William Dean
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/97
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58532#Une-rencontre-roman-de-deux-touristes-sur-le-Saint-Laurent-et-le-Saguenay
 gutenberg_bookshelf: FR Nouveautés
 gutenberg_issued: '2018-12-24'
 gutenberg_type: Text
